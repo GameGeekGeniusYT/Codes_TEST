@@ -5,7 +5,7 @@
 
     "ReplicatedStorage": {
       "Shared": {
-        "$path": "src/shared"
+        "$path": "src/Replication"
       }
     },
 
@@ -22,7 +22,6 @@
         }
       }
     },
-    
     "Lighting": {
       "$properties": {
         "Ambient": [
